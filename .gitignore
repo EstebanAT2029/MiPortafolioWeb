@@ -1,0 +1,28 @@
+
+# Dependencias
+node_modules/
+
+# Producción
+dist/
+build/
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+
+# Archivos temporales
+*.tmp
+*.cache
