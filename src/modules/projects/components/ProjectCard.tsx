@@ -145,7 +145,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
             rel="noreferrer"
             className="flex items-center gap-2 text-sm font-medium text-[#94a3b8] transition hover:text-[#22d3ee]"
           >
-            <Github size={17} />
+            <ExternalLink size={17} />
             GitHub
           </a>
         )}
