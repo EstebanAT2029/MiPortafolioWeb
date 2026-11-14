@@ -54,6 +54,10 @@ export function HeroSection() {
 
           </p>
 
+          <p className="text-cyan-400 font-medium">
+            🚀 Sitio web actualizado automáticamente con GitHub Actions
+          </p>
+
           {/* BOTONES */}
 
           <div className="mt-8 flex flex-wrap gap-4">
